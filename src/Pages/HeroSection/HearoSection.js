@@ -5,7 +5,7 @@ import victor2 from '../../assest/Vector 2.png'
 import { Link } from 'react-router-dom';
 const HearoSection = () => {
     return (
-        <div className="works" id="works">
+        <div className="works mx-auto" id="works">
         {/* left side */}
         <div className="w-left">
           <div className="awesome">

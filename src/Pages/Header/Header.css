@@ -2,7 +2,7 @@
     position: absolute;
     width: 88px;
     height: 88px;
-    left: 950px;
+    left: 1050px;
     top: 90px;
 }
 
@@ -10,7 +10,7 @@
     position: absolute;
     width: 128px;
     height: 128px;
-    left: 700px;
+    left: 900px;
     top: 160px;
 
 }
@@ -19,16 +19,16 @@
     position: absolute;
     width: 228px;
     height: 228px;
-    left: 520px;
-    top: 350px;
+    left: 780px;
+    top: 300px;
 }
 
 .img4 {
     position: absolute;
     width: 475px;
     height: 500px;
-    left: 751px;
-    top: 190px;
+    left: 1051px;
+    top: 200px;
 
 }
 
@@ -54,10 +54,10 @@
 .btn-text{
     box-sizing: border-box;
     position: absolute;
-    width: 128px;
+    width: 188px;
     height: 32px;
     left: 64px;
-    top: 305px;
+    top: 405px;
     color: #FFFFFF;
     border: 1.8px solid #FFFFFF;
     border-radius: 100px;

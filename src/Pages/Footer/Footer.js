@@ -36,7 +36,7 @@ const Footer = () => {
                 <div className="">
                     <div class="form-control">
                         <div class="input-group w-24 h-24">
-                            <input type="text" placeholder="Enter your Email" class="input input-bordered " />
+                            <input className="text-white" type="text" placeholder="Enter your Email" class="input input-bordered " />
                             <button class="btn">
                             Submit
                             </button>

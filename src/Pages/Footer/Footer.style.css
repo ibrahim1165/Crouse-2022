@@ -47,7 +47,7 @@
     position: absolute;
     width: 250px;
     height: 153px;
-    left: 600px;
+    left: 800px;
     top: 48px;
 
 }
@@ -103,7 +103,6 @@
     padding: 0px;
 
     width: 48px;
-    height: 48px;
 
     /* Dark/Secondary */
 
@@ -142,7 +141,7 @@
     position: absolute;
     width: 1140px;
     height: 98px;
-    left: 80px;
+    left: 190px;
     top: 299px;
 }
 
