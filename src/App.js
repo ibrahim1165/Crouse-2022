@@ -6,6 +6,7 @@ import Services from './Pages/Crouse/Services';
 import HearoSection from './Pages/HeroSection/HearoSection';
 import Testimonial from './Pages/Tastemonial/Testimonial';
 import Contact from './Pages/Contact/Contact';
+import Footer from './Pages/Footer/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
     <HearoSection />
     <Testimonial />
     <Contact />
+    <Footer />
 
 
 

@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
     return (
         <div style={{
-             backgroundColor:"#5F72BE"}} className="w-[1112px] h-[120px] px-20  mx-auto">
+             backgroundColor:"#5F72BE"}} className="w-[1112px] h-[120px] px-20  mx-auto mt-24">
             <div
              className="container contact flex items-center justify-center"> 
                 <div  className="text-white mt-4 px-6">
